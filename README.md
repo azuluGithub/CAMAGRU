@@ -4,21 +4,21 @@ This web project (CAMAGRU) creates a small web application (in PHP and Javascrip
 combine with some predefined images. Images can also be uploaded.
 All captured images are public, likeable and commentable.
 
-**signup page**
+**Signup page**
 ![signup image](/snapshots/signup.png)
 
 
-**profile page**
+**Profile page**
 ![profile image](/snapshots/profile.png)
 
 
-**gallery page**
+**Gallery page**
 ![gallery1 image](/snapshots/gallery1.png)
 ![gallery2 image](/snapshots/gallery2.png)
 
-**wall page**
+**Wall page**
 ![wall image](/snapshots/wall.png)
 
 
-**users page**
-![user image](/snapshots/user.png)
+**Users page**
+![users image](/snapshots/users.png)
