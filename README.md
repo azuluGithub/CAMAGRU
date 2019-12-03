@@ -15,3 +15,10 @@ All captured images are public, likeable and commentable.
 **gallery page**
 ![gallery1 image](/snapshots/gallery1.png)
 ![gallery2 image](/snapshots/gallery2.png)
+
+**wall page**
+![wall image](/snapshots/wall.png)
+
+
+**users page**
+![user image](/snapshots/user.png)
