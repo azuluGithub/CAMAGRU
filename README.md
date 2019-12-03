@@ -22,3 +22,4 @@ All captured images are public, likeable and commentable.
 
 **Users page**
 ![users image](/snapshots/users.png)
+![usersprofile image](/snapshots/usersprofile.png)
