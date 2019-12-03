@@ -6,3 +6,12 @@ All captured images are public, likeable and commentable.
 
 **signup page**
 ![signup image](/snapshots/signup.png)
+
+
+**profile page**
+![profile image](/snapshots/profile.png)
+
+
+**gallery page**
+![gallery1 image](/snapshots/gallery1.png)
+![gallery2 image](/snapshots/gallery2.png)
